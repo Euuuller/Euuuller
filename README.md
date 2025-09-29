@@ -32,19 +32,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=2,11,30,56,20&height=180&section=header&text=🛠️%20Habilidades%20e%20Ferramentas&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tecnologias%20e%20Expertise&descSize=16&descAlignY=51&descAlign=50" width="100%">
 
-<img src="./assets/icons/adobe.svg" width="50" height="50" alt="Adobe" />
-<img src="./assets/icons/adobefirefly.svg" width="50" height="50" alt="Adobe Firefly" />
-<img src="./assets/icons/colab.svg" width="50" height="50" alt="Colab" />
-<img src="./assets/icons/copilot.svg" width="50" height="50" alt="Copilot" />
-<img src="./assets/icons/excel.svg" width="50" height="50" alt="Excel" />
-<img src="./assets/icons/fabric.svg" width="50" height="50" alt="fabric" />
-<img src="./assets/icons/figma.svg" width="50" height="50" alt="Figma" />
-<img src="./assets/icons/lovable.svg" width="50" height="50" alt="Lovable" />
-<img src="./assets/icons/n8n.svg" width="50" height="50" alt="N8N" />
-<img src="./assets/icons/power_bi.svg" width="50" height="50" alt="Power BI" />
-<img src="./assets/icons/word.svg" width="50" height="50" alt="Word" />
-<img src="./assets/icons/logo-letter.svg" width="50" height="50" alt="Logo-letter" />
-<img src="./assets/icons/python.svg" width="50" height="50" alt="python" />
+<div align="center">
+  <img src="./assets/icons/adobe.svg" width="50" height="50" alt="Adobe" />
+  <img src="./assets/icons/adobefirefly.svg" width="50" height="50" alt="Adobe Firefly" />
+  <img src="./assets/icons/colab.svg" width="50" height="50" alt="Colab" />
+  <img src="./assets/icons/copilot.svg" width="50" height="50" alt="Copilot" />
+  <img src="./assets/icons/excel.svg" width="50" height="50" alt="Excel" />
+  <img src="./assets/icons/fabric.svg" width="50" height="50" alt="fabric" />
+  <img src="./assets/icons/figma.svg" width="50" height="50" alt="Figma" />
+  <img src="./assets/icons/lovable.svg" width="50" height="50" alt="Lovable" />
+  <img src="./assets/icons/n8n.svg" width="50" height="50" alt="N8N" />
+  <img src="./assets/icons/power_bi.svg" width="50" height="50" alt="Power BI" />
+  <img src="./assets/icons/word.svg" width="50" height="50" alt="Word" />
+  <img src="./assets/icons/logo-letter.svg" width="50" height="50" alt="Logo-letter" />
+  <img src="./assets/icons/python.svg" width="50" height="50" alt="python" />
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
