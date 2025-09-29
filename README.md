@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Euller%20dos%20Santos%20Rodrigues%20Duarte&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=6,11,20&height=120&section=header&text=Euller%20dos%20Santos%20Rodrigues%20Duarte&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=30" alt="Header"/>
 </div>
-
 <div align="justify">
   <p style="text-indent: 2em;">
     Seja muito bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará uma coleção dos meus projetos e contribuições, refletindo minha paixão por Ciência de Dados e minha jornada em transformar dados em insights acionáveis.
@@ -9,10 +8,8 @@
     Sinta-se à vontade para entrar em contato através dos links no final da página.
   </p>
 </div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=30,5,2,11,6&height=180&section=header&text=🚀%20Sobre%20Mim&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Minha%20Jornada%20em%20Data%20Science&descSize=16&descAlignY=51&descAlign=50" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=30,5,2,11,6&height=140&section=header&text=🚀%20Sobre%20Mim&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Minha%20Jornada%20em%20Data%20Science&descSize=16&descAlignY=45&descAlign=50" width="100%">
 
 <div align="justify">
   <p style="text-indent: 3em; margin-left: 1em; margin-right: 1em;">
@@ -20,9 +17,7 @@
   </p>
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=2,11,30,56,20&height=180&section=header&text=🛠️%20Habilidades%20e%20Ferramentas&fontSize=36&fontColor=ffffff&animation=scaleIn&fontAlignY=38&desc=Tecnologias%20e%20Expertise&descSize=16&descAlignY=51&descAlign=50" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=2,11,30,56,20&height=140&section=header&text=🛠️%20Habilidades%20e%20Ferramentas&fontSize=36&fontColor=ffffff&animation=scaleIn&fontAlignY=32&desc=Tecnologias%20e%20Expertise&descSize=16&descAlignY=45&descAlign=50" width="100%">
 
 <div align="center">
   <img src="./assets/icons/adobe.svg" width="50" height="50" alt="Adobe" />
@@ -39,19 +34,15 @@
   <img src="./assets/icons/logo-letter.svg" width="50" height="50" alt="Logo-letter" />
   <img src="./assets/icons/Python.svg" width="50" height="50" alt="Python" />
 </div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=12,20,33,56,2&height=200&section=header&text=📈%20Estatísticas%20do%20GitHub&fontSize=36&fontColor=ffffff&animation=slideInUp&fontAlignY=38&desc=Dados%20e%20Métricas%20em%20Tempo%20Real&descSize=18&descAlignY=51&descAlign=50" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=12,20,33,56,2&height=160&section=header&text=📈%20Estatísticas%20do%20GitHub&fontSize=36&fontColor=ffffff&animation=slideInUp&fontAlignY=34&desc=Dados%20e%20Métricas%20em%20Tempo%20Real&descSize=18&descAlignY=47&descAlign=50" width="100%">
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=euuuller&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="Estatísticas do GitHub"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euuuller&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Linguagens mais utilizadas"/>
 </div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=56,2,11,30,20&height=180&section=header&text=📫%20Vamos%20nos%20conectar!&fontSize=36&fontColor=ffffff&animation=bounceIn&fontAlignY=38&desc=Entre%20em%20contato%20comigo&descSize=16&descAlignY=51&descAlign=50" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=56,2,11,30,20&height=140&section=header&text=📫%20Vamos%20nos%20conectar!&fontSize=36&fontColor=ffffff&animation=bounceIn&fontAlignY=32&desc=Entre%20em%20contato%20comigo&descSize=16&descAlignY=45&descAlign=50" width="100%">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN" target="_blank">
@@ -67,12 +58,10 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
-
 <div align="center">
   <p style="margin-top: 20px; font-size: 16px; color: #58a6ff;">
     💬 Estou sempre aberto a novas oportunidades e colaborações!<br>
     🚀 Vamos transformar dados em insights juntos?
   </p>
 </div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
