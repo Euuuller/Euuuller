@@ -1,13 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Euller%20Duarte&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Header"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=3000&pause=800&color=00D9FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=180&lines=🚀+Cientista+de+Dados;📊+Data+Science+Specialist;⚡+Graduando+em+Engenharia+Elétrica;💡+Transformando+Dados+em+Insights;🎯+Soluções+Orientadas+a+Dados" alt="Typing Animation" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=1200&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Análise+de+Dados+%7C+Visualização+%7C+Estatística;Business+Intelligence+%7C+Data+Mining+%7C+ETL" alt="Skills Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Euller%20dos%20Santos%20Rodrigues%20Duarte&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Header"/>
 </div>
 
 <div align="justify">
@@ -20,17 +12,17 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=30,5,2,11,6&height=180&section=header&text=🚀%20Sobre%20Mim&fontSize=50&fontColor=ffffff&animation=blinking&fontAlignY=38&desc=Minha%20Jornada%20em%20Data%20Science&descSize=16&descAlignY=51&descAlign=50" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=30,5,2,11,6&height=180&section=header&text=🚀%20Sobre%20Mim&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Minha%20Jornada%20em%20Data%20Science&descSize=16&descAlignY=51&descAlign=50" width="100%">
 
 <div align="justify">
-  <p style="text-indent: 2em;">
-    Sou graduando em <strong>Engenharia Elétrica</strong> pelo Instituto Federal de Educação, Ciência e Tecnologia do Maranhão e tenho direcionado minha formação para a área de <strong>Ciência de Dados</strong>. Minha dedicação se concentra no estudo aprofundado de linguagens de programação, ferramentas analíticas, métricas de negócios e fundamentos estatísticos, sempre com um forte foco no pensamento crítico e na resolução de problemas complexos do mundo real.Atualmente, desenvolvo projetos práticos utilizando dados públicos, aplicando técnicas avançadas de análise, visualização e modelagem para converter informações brutas em insights relevantes e estratégicos. Estou ativamente em busca de uma oportunidade para atuar profissionalmente como <strong>Cientista de Dados</strong>, onde possa contribuir significativamente para a melhoria da tomada de decisão nas empresas através da construção de soluções inovadoras orientadas a dados.
+  <p style="text-indent: 3em; margin-left: 1em; margin-right: 1em;">
+    Sou graduando em <strong>Engenharia Elétrica</strong> pelo Instituto Federal de Educação, Ciência e Tecnologia do Maranhão e tenho direcionado minha formação para a área de <strong>Ciência de Dados</strong>. Minha dedicação se concentra no estudo aprofundado de linguagens de programação, ferramentas analíticas, métricas de negócios e fundamentos estatísticos, sempre com um forte foco no pensamento crítico e na resolução de problemas complexos do mundo real. Atualmente, desenvolvo projetos práticos utilizando dados públicos, aplicando técnicas avançadas de análise, visualização e modelagem para converter informações brutas em insights relevantes e estratégicos. Estou ativamente em busca de uma oportunidade para atuar profissionalmente como <strong>Cientista de Dados</strong>, onde possa contribuir significativamente para a melhoria da tomada de decisão nas empresas através da construção de soluções inovadoras orientadas a dados.
   </p>
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=2,11,30,56,20&height=180&section=header&text=🛠️%20Habilidades%20e%20Ferramentas&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tecnologias%20e%20Expertise&descSize=16&descAlignY=51&descAlign=50" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=2,11,30,56,20&height=180&section=header&text=🛠️%20Habilidades%20e%20Ferramentas&fontSize=36&fontColor=ffffff&animation=scaleIn&fontAlignY=38&desc=Tecnologias%20e%20Expertise&descSize=16&descAlignY=51&descAlign=50" width="100%">
 
 <div align="center">
   <img src="./assets/icons/adobe.svg" width="50" height="50" alt="Adobe" />
@@ -45,12 +37,12 @@
   <img src="./assets/icons/power_bi.svg" width="50" height="50" alt="Power BI" />
   <img src="./assets/icons/word.svg" width="50" height="50" alt="Word" />
   <img src="./assets/icons/logo-letter.svg" width="50" height="50" alt="Logo-letter" />
-  <img src="./assets/icons/python.svg" width="50" height="50" alt="python" />
+  <img src="./assets/icons/Python.svg" width="50" height="50" alt="Python" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=12,20,33,56,2&height=200&section=header&text=📈%20Estatísticas%20do%20GitHub&fontSize=60&fontColor=ffffff&animation=scaleIn&fontAlignY=38&desc=Dados%20e%20Métricas%20em%20Tempo%20Real&descSize=18&descAlignY=51&descAlign=50" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=12,20,33,56,2&height=200&section=header&text=📈%20Estatísticas%20do%20GitHub&fontSize=36&fontColor=ffffff&animation=slideInUp&fontAlignY=38&desc=Dados%20e%20Métricas%20em%20Tempo%20Real&descSize=18&descAlignY=51&descAlign=50" width="100%">
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=euuuller&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="Estatísticas do GitHub"/>
@@ -59,7 +51,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=56,2,11,30,20&height=180&section=header&text=📫%20Vamos%20nos%20conectar!&fontSize=45&fontColor=ffffff&animation=pulse&fontAlignY=38&desc=Entre%20em%20contato%20comigo&descSize=16&descAlignY=51&descAlign=50" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=56,2,11,30,20&height=180&section=header&text=📫%20Vamos%20nos%20conectar!&fontSize=36&fontColor=ffffff&animation=bounceIn&fontAlignY=38&desc=Entre%20em%20contato%20comigo&descSize=16&descAlignY=51&descAlign=50" width="100%">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN" target="_blank">
