@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" preserveAspectRatio="xMidYMid meet" role="img" aria-label="🧠 My Focus Areas">
+  <style><![CDATA[
+    @media (prefers-reduced-motion: reduce){ .fadeUp, .gradStop { animation: none !important; } }
+    text{ font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial; font-weight:700; font-size:60px; letter-spacing:-0.02em; }
+    .fadeUp{ opacity:0; transform:translateY(10px); animation:fadeUp 600ms cubic-bezier(.22,.61,.36,1) forwards; }
+    @keyframes fadeUp{ to{ opacity:1; transform:translateY(0); } }
+  ]]></style>
+  <defs>
+    <linearGradient id="gradFocus" x1="0%" x2="100%" y1="0%" y2="0%">
+      <stop class="gradStop" offset="0%" stop-color="#22d3ee">
+        <animate attributeName="offset" values="0;0.25;0" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop class="gradStop" offset="100%" stop-color="#8b5cf6">
+        <animate attributeName="offset" values="1;0.75;1" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <g class="fadeUp">
+    <text x="50%" y="60%" text-anchor="middle" fill="url(#gradFocus)">🧠 My Focus Areas</text>
+    <line x1="18%" x2="82%" y1="85%" y2="85%" stroke="url(#gradFocus)" stroke-width="2" stroke-linecap="round">
+      <animate attributeName="stroke-dasharray" values="0,1000;420,1000" dur="720ms" fill="freeze" />
+      <animate attributeName="stroke-dashoffset" values="420;0" dur="720ms" fill="freeze" />
+    </line>
+  </g>
+</svg>
