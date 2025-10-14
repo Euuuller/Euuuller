@@ -25,6 +25,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
+<img src="assets/titles/title-stats.svg" alt="📌 Estatística" width="100%" style="max-width: 900px; display: block; margin: 12px auto 6px;" />
 
 <table align="center" width="100%" style="border-collapse: collapse; border-spacing: 0; margin: 0 auto;">
   <tr style="padding: 0; margin: 0;">
