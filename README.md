@@ -27,17 +27,17 @@
 
 <img src="assets/titles/title-stats.svg" alt="📌 Estatística" width="100%" style="max-width: 900px; display: block; margin: 12px auto 6px;" />
 
-<div align="center" style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0; border: none; padding: 0; margin: 0 auto; width: 100%;">
-  <div style="border: none; padding: 0; margin: 0;">
+<div align="center" style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); grid-auto-rows: 240px; gap: 0; border: none; padding: 0; margin: 0 auto; width: 100%;">
+  <div style="border: none; padding: 0; margin: 0; height: 240px;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Euuuller&radius=10&bg_color=00000000&hide_border=true" alt="Euuuller's Activity Graph" style="height: 240px; width: 100%; object-fit: contain; background: transparent; display: block; margin: 0; border: none;" />
   </div>
-  <div style="border: none; padding: 0; margin: 0;">
+  <div style="border: none; padding: 0; margin: 0; height: 240px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Euuuller&layout=compact&theme=transparent&hide_border=true&langs_count=10&cache_seconds=86400&bg_color=00000000&border_color=00000000" alt="Top Languages" style="height: 240px; width: 100%; object-fit: contain; background: transparent; display: block; margin: 0; border: none;" />
   </div>
-  <div style="border: none; padding: 0; margin: 0;">
+  <div style="border: none; padding: 0; margin: 0; height: 240px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Euuuller&show_icons=true&theme=transparent&hide_border=true&count_private=true&cache_seconds=86400&bg_color=00000000&border_color=00000000" alt="Euuuller's GitHub Stats" style="height: 240px; width: 100%; object-fit: contain; background: transparent; display: block; margin: 0; border: none;" />
   </div>
-  <div style="border: none; padding: 0; margin: 0;">
+  <div style="border: none; padding: 0; margin: 0; height: 240px;">
     <img src="https://streak-stats.demolab.com/?user=Euuuller&theme=transparent&hide_border=true&cache_seconds=86400&background=00000000" alt="Euuuller's GitHub Streak" style="height: 240px; width: 100%; object-fit: contain; background: transparent; display: block; margin: 0; border: none;" />
   </div>
 </div>
