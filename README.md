@@ -30,18 +30,18 @@
 <table align="center" width="100%" style="border-collapse: collapse; border-spacing: 0; margin: 0 auto;">
   <tr style="padding: 0; margin: 0;">
     <td width="50%" align="center" valign="top" style="padding: 0; margin: 0;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Euuuller&theme=dark&radius=10&bg_color=00000000&hide_border=true" alt="Euuuller's Activity Graph" style="height: 240px; width: 100%; object-fit: contain; background: transparent; display: block; margin: 0;" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Euuuller&radius=10&bg_color=00000000&hide_border=true" alt="Euuuller's Activity Graph" style="height: 240px; width: 100%; object-fit: contain; background: transparent; display: block; margin: 0;" />
     </td>
     <td width="50%" align="center" valign="top" style="padding: 0; margin: 0;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Euuuller&layout=compact&theme=dark&hide_border=true&langs_count=10&cache_seconds=86400&bg_color=00000000" alt="Top Languages" style="height: 240px; width: 100%; object-fit: contain; background: transparent; display: block; margin: 0;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Euuuller&layout=compact&theme=transparent&hide_border=true&langs_count=10&cache_seconds=86400&bg_color=00000000&border_color=00000000" alt="Top Languages" style="height: 240px; width: 100%; object-fit: contain; background: transparent; display: block; margin: 0;" />
     </td>
   </tr>
   <tr style="padding: 0; margin: 0;">
     <td width="50%" align="center" valign="top" style="padding: 0; margin: 0;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Euuuller&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400&bg_color=00000000" alt="Euuuller's GitHub Stats" style="height: 240px; width: 100%; object-fit: contain; background: transparent; display: block; margin: 0;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Euuuller&show_icons=true&theme=transparent&hide_border=true&count_private=true&cache_seconds=86400&bg_color=00000000&border_color=00000000" alt="Euuuller's GitHub Stats" style="height: 240px; width: 100%; object-fit: contain; background: transparent; display: block; margin: 0;" />
     </td>
     <td width="50%" align="center" valign="top" style="padding: 0; margin: 0;">
-      <img src="https://streak-stats.demolab.com/?user=Euuuller&theme=dark&hide_border=true&cache_seconds=86400&background=00000000" alt="Euuuller's GitHub Streak" style="height: 240px; width: 100%; object-fit: contain; background: transparent; display: block; margin: 0;" />
+      <img src="https://streak-stats.demolab.com/?user=Euuuller&theme=transparent&hide_border=true&cache_seconds=86400&background=00000000" alt="Euuuller's GitHub Streak" style="height: 240px; width: 100%; object-fit: contain; background: transparent; display: block; margin: 0;" />
     </td>
   </tr>
 </table>
