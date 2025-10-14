@@ -9,9 +9,9 @@
 
 
 <img src="assets/titles/title-sobre.svg" alt="📌 Sobre Mim" width="100%" style="max-width: 900px; display: block; margin: 12px auto 6px;" />
-<p style="text-align: justify; text-indent: 1.5cm;">
-  Olá, seja muito bem-vindo(a) ao meu portfólio de projetos de Ciência de Dados. Nessa página, demonstro minhas habilidades em resolver problemas de negócio utilizando conceitos e ferramentas da Ciência de Dados, através de projetos com dados públicos. Você também encontrará informações sobre minhas habilidades, ferramentas e conceitos envolvendo a Ciência de Dados. Sinta-se à vontade para entrar em contato através dos links no final da página.
 
+<p align="justify">
+  Olá, seja muito bem-vindo(a) ao meu portfólio de projetos de Ciência de Dados. Nessa página, demonstro minhas habilidades em resolver problemas de negócio utilizando conceitos e ferramentas da Ciência de Dados, através de projetos com dados públicos. Você também encontrará informações sobre minhas habilidades, ferramentas e conceitos envolvendo a Ciência de Dados. Sinta-se à vontade para entrar em contato através dos links no final da página.
 </p>
 
 <div align="center">
@@ -25,7 +25,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
-<img src="assets/titles/title-stats.svg" alt="📊 GitHub Stats & Trophies" width="100%" style="max-width: 900px; display: block; margin: 12px auto 6px;" />
+
 <table align="center" width="100%" style="border-collapse: collapse; border-spacing: 0; margin: 0 auto;">
   <tr style="padding: 0; margin: 0;">
     <td width="50%" align="center" valign="top" style="padding: 0; margin: 0;">
