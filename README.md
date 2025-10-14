@@ -27,23 +27,23 @@
 
 <img src="assets/titles/title-stats.svg" alt="📌 Estatística" width="100%" style="max-width: 900px; display: block; margin: 12px auto 6px;" />
 
-<!-- 2x2 stats cards: imagens com largura igual e responsiva (max 360px) -->
+<!-- 2x2 stats cards: imagens com mesma largura e altura. tabela sem linhas visíveis -->
 <div align="center">
-  <table align="center" cellpadding="6" cellspacing="0" style="border-collapse:collapse; margin:0 auto;">
+  <table align="center" style="border-collapse:collapse; margin:0 auto; border: none;">
     <tr>
-      <td align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Euuuller&radius=10&bg_color=00000000&hide_border=true" alt="Euuuller's Activity Graph" width="360" style="max-width:360px; width:100%; height:auto; display:block; margin:0 auto; background:transparent;" />
+      <td align="center" style="padding:6px; border:none;">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Euuuller&radius=10&bg_color=00000000&hide_border=true" alt="Euuuller's Activity Graph" width="360" height="180" style="max-width:360px; width:100%; height:180px; object-fit:contain; display:block; margin:0 auto; background:transparent; border:none;" />
       </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Euuuller&layout=compact&theme=transparent&hide_border=true&langs_count=10&cache_seconds=86400&bg_color=00000000&border_color=00000000" alt="Top Languages" width="360" style="max-width:360px; width:100%; height:auto; display:block; margin:0 auto; background:transparent;" />
+      <td align="center" style="padding:6px; border:none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Euuuller&layout=compact&theme=transparent&hide_border=true&langs_count=10&cache_seconds=86400&bg_color=00000000&border_color=00000000" alt="Top Languages" width="360" height="180" style="max-width:360px; width:100%; height:180px; object-fit:contain; display:block; margin:0 auto; background:transparent; border:none;" />
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Euuuller&show_icons=true&theme=transparent&hide_border=true&count_private=true&cache_seconds=86400&bg_color=00000000&border_color=00000000" alt="Euuuller's GitHub Stats" width="360" style="max-width:360px; width:100%; height:auto; display:block; margin:0 auto; background:transparent;" />
+      <td align="center" style="padding:6px; border:none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Euuuller&show_icons=true&theme=transparent&hide_border=true&count_private=true&cache_seconds=86400&bg_color=00000000&border_color=00000000" alt="Euuuller's GitHub Stats" width="360" height="180" style="max-width:360px; width:100%; height:180px; object-fit:contain; display:block; margin:0 auto; background:transparent; border:none;" />
       </td>
-      <td align="center">
-        <img src="https://streak-stats.demolab.com/?user=Euuuller&theme=transparent&hide_border=true&cache_seconds=86400&background=00000000" alt="Euuuller's GitHub Streak" width="360" style="max-width:360px; width:100%; height:auto; display:block; margin:0 auto; background:transparent;" />
+      <td align="center" style="padding:6px; border:none;">
+        <img src="https://streak-stats.demolab.com/?user=Euuuller&theme=transparent&hide_border=true&cache_seconds=86400&background=00000000" alt="Euuuller's GitHub Streak" width="360" height="180" style="max-width:360px; width:100%; height:180px; object-fit:contain; display:block; margin:0 auto; background:transparent; border:none;" />
       </td>
     </tr>
   </table>
