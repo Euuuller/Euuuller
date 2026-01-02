@@ -22,8 +22,6 @@ Busco uma oportunidade de Estágio como Analista de Dados, onde eu possa contrib
 
 ---
 
-## 🛠️ Tech Stack & Ferramentas
-
 <div align="center">
 
 ### Linguagens de Programação
@@ -66,13 +64,16 @@ Busco uma oportunidade de Estágio como Analista de Dados, onde eu possa contrib
 ---
 
 <div align="center">
-  <a href="https://github.com/Euuuller">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Euuuller&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=79ff97&icon_color=79ff97" alt="Estatísticas do Euuuller" />
-  </a>
-  
-  <a href="https://github.com/Euuuller">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Euuuller&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79ff97" alt="Linguagens Mais Usadas" />
-  </a>
+
+<a href="https://github.com/Euuuller">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Euuuller&theme=tokyonight" alt="Estatísticas do GitHub" />
+</a>
+<a href="https://github.com/Euuuller">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Euuuller&theme=tokyonight" alt="Linguagens Mais Usadas" />
+</a>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Euuuller&theme=tokyonight)
+
 </div>
 
 ---
@@ -80,7 +81,6 @@ Busco uma oportunidade de Estágio como Analista de Dados, onde eu possa contrib
 <div align="center">
 
 ### Vamos nos conectar?
-
 [![Portfolio](https://img.shields.io/badge/🌐_Portfólio-Visite-4285F4?style=for-the-badge)](https://euuuller.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Conecte_se-0077B5?style=for-the-badge)](https://www.linkedin.com/in/seu-linkedin/)
 [![Email](https://img.shields.io/badge/📧_Email-Contato-D14836?style=for-the-badge)](mailto:seuemail@exemplo.com)
