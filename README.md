@@ -9,11 +9,11 @@
 ---
 
 <div align="justify">
-Sou graduando em Engenharia Elétrica pelo Instituto Federal do Maranhão (IFMA), com foco em Análise de Dados e tomada de decisão orientada a dados. Possuo experiência prática com Excel, Power BI, SQL e Python, aplicando conceitos de Estatística e os principais tipos de análise de dados Descritiva, Diagnóstica, Preditiva e Prescritiva para resolver problemas de negócio. Desenvolvi projetos completos utilizando dados públicos, incluindo segmentação de clientes (RFM), análise de retenção por cohort, diagnóstico de queda de vendas, criação de dashboards gerenciais e previsão do número de pedidos, transformando dados brutos em insights acionáveis.
+Sou graduando em **Engenharia Elétrica** pelo Instituto Federal do Maranhão (IFMA), com foco em **Análise de Dados** e tomada de decisão orientada a dados. Possuo experiência prática com Excel, Power BI, SQL e Python, aplicando conceitos de Estatística e os principais tipos de análise de dados Descritiva, Diagnóstica, Preditiva e Prescritiva para resolver problemas de negócio. Desenvolvi projetos completos utilizando dados públicos, incluindo segmentação de clientes (RFM), análise de retenção por cohort, diagnóstico de queda de vendas, criação de dashboards gerenciais e previsão do número de pedidos, transformando dados brutos em insights acionáveis.
 </div>
 
 <div align="justify">
-Busco uma oportunidade de Estágio como Analista de Dados, onde eu possa contribuir com análises claras, métricas relevantes e soluções orientadas a dados para apoiar decisões estratégicas nas organizações, sempre com ênfase no pensamento crítico e na resolução de problemas.
+Busco uma oportunidade de Estágio como **Analista de Dados**, onde eu possa contribuir com análises claras, métricas relevantes e soluções orientadas a dados para apoiar decisões estratégicas nas organizações, sempre com ênfase no pensamento crítico e na resolução de problemas.
 </div><br>
 
 🌐 **Confira meu portfólio completo:** [euuuller.github.io/Portfolio](https://euuuller.github.io/Portfolio/)
