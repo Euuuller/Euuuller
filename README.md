@@ -24,19 +24,20 @@ Busco uma oportunidade de Estágio como <strong>Analista de Dados</strong>, onde
 
 <div align="center">
 
-### Linguagens de Programação
 <img src="./icons/python.svg" height="50" alt="Python" title="Python"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" title="C++"/>
-
-### Banco de Dados
+<img src="./icons/HTML.svg" height="50" alt="HTML" title="HTML"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./icons/CSS.svg" height="50" alt="CSS" title="CSS"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./icons/JavaScript.svg" height="50" alt="JavaScript" title="JavaScript"/>
 <img src="./icons/SQL.svg" height="50" alt="SQL" title="SQL"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="50" alt="MySQL" title="MySQL"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" title="PostgreSQL"/>
-
-### Bibliotecas & Frameworks
+&nbsp;&nbsp;&nbsp;
+<img src="./icons/SQLite.svg" height="50" alt="SQLite" title="SQLite"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="50" alt="Pandas" title="Pandas"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="50" alt="NumPy" title="NumPy"/>
@@ -44,20 +45,25 @@ Busco uma oportunidade de Estágio como <strong>Analista de Dados</strong>, onde
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="50" alt="Scikit-Learn" title="Scikit-Learn"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="50" alt="Matplotlib" title="Matplotlib"/>
-
-### Ferramentas de Análise & Visualização
+&nbsp;&nbsp;&nbsp;
+<img src="./icons/Ploty.svg" height="50" alt="Plotly" title="Plotly"/>
 <img src="./icons/PowerBI.svg" height="50" alt="Power BI" title="Power BI"/>
 &nbsp;&nbsp;&nbsp;
 <img src="./icons/Excel.svg" height="50" alt="Excel" title="Microsoft Excel"/>
 &nbsp;&nbsp;&nbsp;
 <img src="./icons/Jupyter.svg" height="50" alt="Jupyter" title="Jupyter Notebook"/>
-
-### Desenvolvimento & Versionamento
 <img src="./icons/vscode.svg" height="50" alt="VS Code" title="VS Code"/>
 &nbsp;&nbsp;&nbsp;
 <img src="./icons/git.svg" height="50" alt="Git" title="Git"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="50" alt="GitHub" title="GitHub"/>
+<img src="./icons/UV.svg" height="50" alt="UV" title="UV - Ambiente Virtual Python"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./icons/docker.svg" height="50" alt="Docker" title="Docker"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./icons/figma.svg" height="50" alt="Figma" title="Figma"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./icons/icons8-latex.svg" height="50" alt="LaTeX" title="LaTeX"/>
 
 </div>
 
@@ -71,8 +77,6 @@ Busco uma oportunidade de Estágio como <strong>Analista de Dados</strong>, onde
 <a href="https://github.com/Euuuller">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Euuuller&theme=tokyonight" alt="Linguagens Mais Usadas" />
 </a>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Euuuller&theme=tokyonight)
 
 </div>
 
