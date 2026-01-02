@@ -8,15 +8,19 @@
 
 ---
 
-<div align="justify">
-
-### 👨‍💻 Sobre Mim
-
-Sou graduando em **Engenharia Elétrica** pelo IFMA e venho direcionando minha formação para a área de **Ciência de Dados**. Minha base em engenharia me proporcionou um forte pensamento analítico e habilidade com modelos matemáticos, os quais aplico hoje na resolução de problemas de negócio.
-
-Atualmente, desenvolvo projetos práticos utilizando dados públicos para transformar informações brutas em insights estratégicos. Meu foco está em **Python, Estatística Aplicada e Machine Learning**, buscando uma oportunidade para atuar como Cientista de Dados e contribuir para a tomada de decisão orientada a dados.
-
+<div align="justify" style="text-indent: 1.25cm;">
+Sou graduando em Engenharia Elétrica pelo Instituto Federal do Maranhão (IFMA), com foco em **Análise de Dados** e tomada de decisão orientada a dados. Possuo experiência prática com Excel, Power BI, SQL e Python, aplicando conceitos de Estatística e os principais tipos de análise de dados Descritiva, Diagnóstica, Preditiva e Prescritiva para resolver problemas de negócio.
 </div>
+
+<div align="justify" style="text-indent: 1.25cm;"> 
+Desenvolvi projetos completos utilizando dados públicos, incluindo segmentação de clientes (RFM), análise de retenção por cohort, diagnóstico de queda de vendas, criação de dashboards gerenciais e previsão do número de pedidos, transformando dados brutos em insights acionáveis.
+</div>
+
+<div align="justify" style="text-indent: 1.25cm;">
+Busco uma oportunidade de Estágio como Analista de Dados, onde eu possa contribuir com análises claras, métricas relevantes e soluções orientadas a dados para apoiar decisões estratégicas nas organizações, sempre com ênfase no pensamento crítico e na resolução de problemas
+</div>
+
+
 
 <br>
 
