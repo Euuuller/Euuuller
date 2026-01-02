@@ -9,7 +9,7 @@
 ---
 
 <div align="justify">
-Sou graduando em <strong>Engenharia Elétrica</strong> pelo Instituto Federal do Maranhão (IFMA), com foco em <strong>Análise de Dados</strong> e tomada de decisão orientada a dados. Possuo experiência prática com Excel, Power BI, SQL e Python, aplicando conceitos de Estatística e os principais tipos de análise de dados Descritiva, Diagnóstica, Preditiva e Prescritiva para resolver problemas de negócio. Desenvolvi projetos completos utilizando dados públicos, incluindo segmentação de clientes (RFM), análise de retenção por cohort, diagnóstico de queda de vendas, criação de dashboards gerenciais e previsão do número de pedidos, transformando dados brutos em insights acionáveis.
+Sou graduando em <strong>Engenharia Elétrica</strong> pelo Instituto Federal do Maranhão (IFMA), com foco em <strong>Análise de Dados</strong> e tomada de decisão orientada a dados. Possuo experiência prática com <span style="color: #FF8C00; font-weight: bold;">Excel</span>, <span style="color: #FF8C00; font-weight: bold;">Power BI</span>, <span style="color: #FF8C00; font-weight: bold;">SQL</span> e <span style="color: #FF8C00; font-weight: bold;">Python</span>, aplicando conceitos de Estatística e os principais tipos de análise de dados Descritiva, Diagnóstica, Preditiva e Prescritiva para resolver problemas de negócio. Desenvolvi projetos completos utilizando dados públicos, incluindo segmentação de clientes (RFM), análise de retenção por cohort, diagnóstico de queda de vendas, criação de dashboards gerenciais e previsão do número de pedidos, transformando dados brutos em insights acionáveis.
 </div>
 
 <div align="justify">
