@@ -72,10 +72,10 @@ Busco uma oportunidade de Estágio como <strong>Analista de Dados</strong>, onde
 <div align="center">
 
 <a href="https://github.com/Euuuller">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Euuuller&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Euuuller&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffa500&bg_color=00000000&count_private=true" alt="Estatísticas do GitHub" />
 </a>
 <a href="https://github.com/Euuuller">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Euuuller&theme=tokyonight" alt="Linguagens Mais Usadas" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Euuuller&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=00000000&langs_count=8" alt="Linguagens Mais Usadas" />
 </a>
 
 </div>
