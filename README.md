@@ -16,9 +16,14 @@ Sou graduando em <strong>Engenharia Elétrica</strong> pelo Instituto Federal do
 Busco uma oportunidade de Estágio como <strong>Analista de Dados</strong>, onde eu possa contribuir com análises claras, métricas relevantes e soluções orientadas a dados para apoiar decisões estratégicas nas organizações, sempre com ênfase no pensamento crítico e na resolução de problemas.
 </div><br>
 
-🌐 **Confira meu portfólio completo:** [euuuller.github.io/Portfolio](https://euuuller.github.io/Portfolio/)
+<div align="center">
 
-📄 **Baixe meu currículo:** [Download CV](./curriculum/Currículo%20Vitae.pdf)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-Visite-4285F4?style=for-the-badge)](https://euuuller.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Conecte_se-0077B5?style=for-the-badge)](https://www.linkedin.com/in/seu-linkedin/)
+[![Email](https://img.shields.io/badge/📧_Email-Contato-D14836?style=for-the-badge)](mailto:seuemail@exemplo.com)
+[![CV](https://img.shields.io/badge/📄_Currículo-Download-00C853?style=for-the-badge)](./curriculum/Currículo%20Vitae.pdf)
+
+</div>
 
 ---
 
@@ -78,12 +83,3 @@ Busco uma oportunidade de Estágio como <strong>Analista de Dados</strong>, onde
 
 ---
 
-<div align="center">
-
-### Vamos nos conectar?
-[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-Visite-4285F4?style=for-the-badge)](https://euuuller.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Conecte_se-0077B5?style=for-the-badge)](https://www.linkedin.com/in/seu-linkedin/)
-[![Email](https://img.shields.io/badge/📧_Email-Contato-D14836?style=for-the-badge)](mailto:seuemail@exemplo.com)
-[![CV](https://img.shields.io/badge/📄_Currículo-Download-00C853?style=for-the-badge)](./curriculum/Currículo%20Vitae.pdf)
-
-</div>
