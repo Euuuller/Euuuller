@@ -18,10 +18,10 @@ Busco uma oportunidade de Estágio como <strong>Analista de Dados</strong>, onde
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-Visite-4285F4?style=for-the-badge)](https://euuuller.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Conecte_se-0077B5?style=for-the-badge)](https://www.linkedin.com/in/seu-linkedin/)
-[![Email](https://img.shields.io/badge/📧_Email-Contato-D14836?style=for-the-badge)](mailto:seuemail@exemplo.com)
-[![CV](https://img.shields.io/badge/📄_Currículo-Download-00C853?style=for-the-badge)](./curriculum/Currículo%20Vitae.pdf)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-Visite-FFFFFF?style=for-the-badge)](https://euuuller.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Conecte_se-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/seu-linkedin/)
+[![Email](https://img.shields.io/badge/📧_Email-Contato-FF0000?style=for-the-badge)](mailto:seuemail@exemplo.com)
+[![CV](https://img.shields.io/badge/📄_Currículo-Download-00FF00?style=for-the-badge)](./curriculum/Currículo%20Vitae.pdf)
 
 </div>
 
@@ -78,9 +78,6 @@ Busco uma oportunidade de Estágio como <strong>Analista de Dados</strong>, onde
 
 <a href="https://github.com/Euuuller">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Euuuller&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffa500&bg_color=00000000&count_private=true" alt="Estatísticas do GitHub" />
-</a>
-<a href="https://github.com/Euuuller">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Euuuller&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffa500&bg_color=00000000" alt="Top Linguagens" />
 </a>
 </div>
 
