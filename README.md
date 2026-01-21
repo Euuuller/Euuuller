@@ -1,4 +1,4 @@
-![Banner](./Image/1_Image.png)
+![Banner](./Image/3_Image.svg)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -18,9 +18,9 @@ Busco uma oportunidade de Estágio como <strong>Analista de Dados</strong>, onde
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-Visite-FFFFFF?style=for-the-badge)](https://euuuller.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Conecte_se-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/seu-linkedin/)
-[![Email](https://img.shields.io/badge/📧_Email-Contato-FF0000?style=for-the-badge)](mailto:seuemail@exemplo.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-Visite-FFFFFF?style=for-the-badge)](https://euuuller.github.io/Euuuller-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Conecte_se-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/euuuller/)
+[![Email](https://img.shields.io/badge/📧_Email-Contato-FF0000?style=for-the-badge)](mailto:euller.santos.duarte@gmail.com)
 [![CV](https://img.shields.io/badge/📄_Currículo-Download-00FF00?style=for-the-badge)](./curriculum/Currículo%20Vitae.pdf)
 
 </div>
@@ -31,11 +31,6 @@ Busco uma oportunidade de Estágio como <strong>Analista de Dados</strong>, onde
 
 <img src="./icons/python.svg" height="50" alt="Python" title="Python"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./icons/HTML.svg" height="50" alt="HTML" title="HTML"/>
-&nbsp;&nbsp;&nbsp;
-<img src="./icons/CSS.svg" height="50" alt="CSS" title="CSS"/>
-&nbsp;&nbsp;&nbsp;
-<img src="./icons/JavaScript.svg" height="50" alt="JavaScript" title="JavaScript"/>
 <img src="./icons/SQL.svg" height="50" alt="SQL" title="SQL"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="50" alt="MySQL" title="MySQL"/>
@@ -64,8 +59,6 @@ Busco uma oportunidade de Estágio como <strong>Analista de Dados</strong>, onde
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="50" alt="GitHub" title="GitHub"/>
 <img src="./icons/UV.svg" height="50" alt="UV" title="UV - Ambiente Virtual Python"/>
 &nbsp;&nbsp;&nbsp;
-<img src="./icons/docker.svg" height="50" alt="Docker" title="Docker"/>
-&nbsp;&nbsp;&nbsp;
 <img src="./icons/figma.svg" height="50" alt="Figma" title="Figma"/>
 &nbsp;&nbsp;&nbsp;
 <img src="./icons/icons8-latex.svg" height="50" alt="LaTeX" title="LaTeX"/>
@@ -75,11 +68,23 @@ Busco uma oportunidade de Estágio como <strong>Analista de Dados</strong>, onde
 ---
 
 <div align="center">
-
-<a href="https://github.com/Euuuller">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Euuuller&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffa500&bg_color=00000000&count_private=true" alt="Estatísticas do GitHub" />
-</a>
+  <div style="display: inline-block; vertical-align: top;">
+    <a href="https://github.com/Euuuller">
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=euuuller&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+    </a>
+    <a href="https://github.com/Euuuller">
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euuuller&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top Linguagens" />
+    </a>
+  </div>
 </div>
 
 ---
 
+<div align="center">
+
+> _"Dados são o que você precisa para fazer análises. Informação é o que você precisa para fazer negócios."_
+>
+> **John Owen**
+
+</div>
+</div>
