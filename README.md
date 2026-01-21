@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Analista+de+Dados;Data+Analyst;Graduando+em+Engenharia+El%C3%A9trica" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF8C00&center=true&vCenter=true&width=500&lines=Analista+de+Dados;Data+Analyst;Graduando+em+Engenharia+El%C3%A9trica" alt="Typing SVG" />
   </a>
 </div>
 
@@ -76,6 +76,12 @@ Busco uma oportunidade de Estágio como <strong>Analista de Dados</strong>, onde
       <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euuuller&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top Linguagens" />
     </a>
   </div>
+</div>
+
+---
+
+<div align="center">
+  <img alt="Snake animation" src="https://github.com/Euuuller/Euuuller/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
