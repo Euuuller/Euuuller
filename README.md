@@ -81,12 +81,6 @@ Busco uma oportunidade de Estágio como <strong>Analista de Dados</strong>, onde
 ---
 
 <div align="center">
-  <img alt="Snake animation" src="https://github.com/Euuuller/Euuuller/blob/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
-<div align="center">
 
 > _"Dados são o que você precisa para fazer análises. Informação é o que você precisa para fazer negócios."_
 >
