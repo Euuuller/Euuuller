@@ -68,14 +68,12 @@ Busco uma oportunidade de Estágio como <strong>Analista de Dados</strong>, onde
 ---
 
 <div align="center">
-  <div style="display: inline-block; vertical-align: top;">
-    <a href="https://github.com/Euuuller">
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=euuuller&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-    </a>
-    <a href="https://github.com/Euuuller">
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euuuller&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top Linguagens" />
-    </a>
-  </div>
+  <a href="https://github.com/Euuuller">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Euuuller&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/Euuuller">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Euuuller&layout=compact&theme=dracula&langs_count=6" alt="Top Linguagens" />
+  </a>
 </div>
 
 ---
