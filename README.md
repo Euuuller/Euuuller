@@ -18,7 +18,7 @@ Busco uma oportunidade de Estágio como <strong>Analista de Dados</strong>, onde
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-Visite-FFFFFF?style=for-the-badge)](https://euuuller.github.io/Euuuller-Portfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-Visite-FFFFFF?style=for-the-badge)](https://euller-ds.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Conecte_se-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/euuuller/)
 [![Email](https://img.shields.io/badge/📧_Email-Contato-FF0000?style=for-the-badge)](mailto:euller.santos.duarte@gmail.com)
 [![CV](https://img.shields.io/badge/📄_Currículo-Download-00FF00?style=for-the-badge)](./curriculum/Currículo%20Vitae.pdf)
@@ -69,10 +69,10 @@ Busco uma oportunidade de Estágio como <strong>Analista de Dados</strong>, onde
 
 <div align="center">
   <a href="https://github.com/Euuuller">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Euuuller&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas do GitHub" />
+    <img height="180" src="https://streak-stats.demolab.com?user=Euuuller&theme=dracula&hide_border=true&date_format=M%20j%2C%20Y" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/Euuuller">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Euuuller&layout=compact&theme=dracula&langs_count=6" alt="Top Linguagens" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Euuuller&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
   </a>
 </div>
 
