@@ -68,13 +68,16 @@ Busco uma oportunidade de Estágio como <strong>Analista de Dados</strong>, onde
 ---
 
 <div align="center">
-  <a href="https://github.com/Euuuller">
-    <img height="180" src="https://streak-stats.demolab.com?user=Euuuller&theme=dracula&hide_border=true&date_format=M%20j%2C%20Y" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/Euuuller">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Euuuller&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </a>
-</div>
+
+
+![](https://nirzak-streak-stats.vercel.app/?user=euuuller&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=euuuller&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=euuuller&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ---
 
