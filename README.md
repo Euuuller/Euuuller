@@ -18,7 +18,7 @@ Busco uma oportunidade de Estágio como <strong>Analista de Dados</strong>, onde
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-Visite-FFFFFF?style=for-the-badge)](https://euller-ds.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-Visite-FFFFFF?style=for-the-badge)](https://euuuller.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Conecte_se-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/euuuller/)
 [![Email](https://img.shields.io/badge/📧_Email-Contato-FF0000?style=for-the-badge)](mailto:euller.santos.duarte@gmail.com)
 [![CV](https://img.shields.io/badge/📄_Currículo-Download-00FF00?style=for-the-badge)](./curriculum/Currículo%20Vitae.pdf)
